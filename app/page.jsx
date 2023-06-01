@@ -25,7 +25,7 @@ export default function PageHome() {
           >
             All Products
           </div>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 my-5 px-5 md:px-0">
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5 my-5 px-5 md:px-0">
           <ProductsCard/>
           <ProductsCard/>
           <ProductsCard/>
